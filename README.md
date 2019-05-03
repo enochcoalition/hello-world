@@ -7,3 +7,8 @@ My first GitHub Repo
 - great debaters
 - black panther
 
+## Favorite Books
+
+- The Alchemist
+- You're A Badass at Making Money
+- Revolutionary Suicide
