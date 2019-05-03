@@ -18,3 +18,9 @@ My first GitHub Repo
 - Baseball
 - Track & Field
 - Basketball
+
+## Favorite Animals
+
+- Dogs
+- Lions
+- Panthers
