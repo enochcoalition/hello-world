@@ -1,2 +1,9 @@
 # hello-world
-My second Github repo, ya feel me
+My first GitHub Repo
+
+## Favorite Movies
+
+- the wood
+- great debaters
+- black panther
+
