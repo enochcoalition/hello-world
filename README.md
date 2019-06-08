@@ -27,6 +27,4 @@ My first GitHub Repo
 
 ## Changes
 
-- Love
-- Peace
-- Better at VS Code
+<!-- Adding some comments for testing purposes to make sure I can commit and push to Git -->
