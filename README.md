@@ -26,3 +26,7 @@ My first GitHub Repo
 - Panthers
 
 ## Changes
+
+- Love
+- Peace
+- Better at VS Code
