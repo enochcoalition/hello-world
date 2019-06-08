@@ -24,3 +24,5 @@ My first GitHub Repo
 - Dogs
 - Lions
 - Panthers
+
+## Changes
