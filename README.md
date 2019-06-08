@@ -27,4 +27,5 @@ My first GitHub Repo
 
 ## Changes
 
+No changes made really.
 <!-- Adding some comments for testing purposes to make sure I can commit and push to Git -->
